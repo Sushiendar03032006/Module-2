@@ -25,7 +25,8 @@ result(a, b)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/4f18dde1-2d46-42e1-a810-fd523078348f)
+![image](https://github.com/user-attachments/assets/8e7189e7-776e-41d6-931c-3d732ce5fc44)
+
 
 
 
