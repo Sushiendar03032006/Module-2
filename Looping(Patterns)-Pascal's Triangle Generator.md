@@ -50,7 +50,7 @@ for i in range(rows):
 
 ```
 
-## Sample Output:
+## Output:
 ![image](https://github.com/user-attachments/assets/e9950d89-b9fc-4b31-8a98-afeb02fb81dc)
 
 
