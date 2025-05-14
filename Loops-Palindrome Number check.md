@@ -1,9 +1,9 @@
 ## Loops in Python: Palindrome Number Checker
 
-## 🎯 Aim
+## Aim
 To write a Python program that checks whether a given number is a **palindrome** using loops.
 
-## 🧠 Algorithm
+## Algorithm
 1. Get input from the user and assign it to a variable `num`.
 2. Assign the value of `num` to a temporary variable `temp`.
 3. Initialize a variable `rev` to 0 (used to store the reversed number).
@@ -15,7 +15,7 @@ To write a Python program that checks whether a given number is a **palindrome**
    - If equal, print that the number is a palindrome.
    - Else, print that it is not a palindrome.
 
-## 🧾 Program
+## Program
 ```
 # Get input from the user and assign it to a variable num
 num = int(input("Enter a number: "))
@@ -39,8 +39,7 @@ else:
 
 ```
 ## Output:
-![Screenshot 2025-04-30 230626](https://github.com/user-attachments/assets/74619be4-cec2-4e0d-885a-848681982906)
-
+![image](https://github.com/user-attachments/assets/189601c9-3b2b-4397-93e6-2952ce0706e3)
 
 
 ## Result:
